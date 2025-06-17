@@ -12,7 +12,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 
 ## Code 
----
+
 ### Software optimization
 1. [Software optimization resources](https://www.agner.org/optimize/) - Manuals on optimizing c++ and assembly for different platforms(linux, windows, amac), guides to Intel and AMD cpu architectures, and more.
 
@@ -22,6 +22,6 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 
 ### Quant
----
+
 ### Risk Management
 1. [A Full Guide to Risk Management](https://www.vertoxquant.com/p/a-full-guide-to-risk-management) - Risk metrics like VaR, Vol modelling and more with code.
