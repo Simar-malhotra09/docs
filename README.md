@@ -24,6 +24,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 5. [Follow up discussion on 4.](https://news.ycombinator.com/item?id=40908273)- Hackernews discussion board on the aforementioned paper which I found more helpful than the original paper. 
 
 ### Quant
+1. [Quantocracy](https://quantocracy.com/)-  curated mashup of quantitative trading links.
 
 ### Risk Management
 1. [A Full Guide to Risk Management](https://www.vertoxquant.com/p/a-full-guide-to-risk-management) - Risk metrics like VaR, Vol modelling and more with code.
