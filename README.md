@@ -28,7 +28,8 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 ### General
 1. [Arxiv's page on Quantitative Finance](https://arxiv.org/archive/q-fin)
-2. [Quantocracy](https://quantocracy.com/)-  curated mashup of quantitative trading links.
+2. [AQR Capital](https://www.aqr.com/Insights/Research)- One of the only management firms who consistently publishes high-quality, research-driven blogs.
+3. [Quantocracy](https://quantocracy.com/)-  curated mashup of quantitative trading links.
 
 
 
