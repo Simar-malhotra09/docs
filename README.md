@@ -5,6 +5,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 - [**Code**](##code)
   - Software Optimization
+  - Git
     
 - [**Quant**](##Quant)
   - General
@@ -22,7 +23,10 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 3. [On memory optimization (by the folks over at Sony)](https://web.archive.org/web/20160422113037/http://www.research.scea.com/research/pdfs/GDC2003_Memory_Optimization_18Mar03.pdf)
 
 4. [C++ Design Patterns for Low-latency Applications Including High-frequency Trading](https://arxiv.org/abs/2309.04259)- Cache warming, constexpr and more.
-5. [Follow up discussion on 4.](https://news.ycombinator.com/item?id=40908273)- Hackernews discussion board on the aforementioned paper which I found more helpful than the original paper. 
+5. [Follow up discussion on 4.](https://news.ycombinator.com/item?id=40908273)- Hackernews discussion board on the aforementioned paper which I found more helpful than the original paper.
+
+### Git
+1. [Git fetch vs pull](https://longair.net/blog/2009/04/16/git-fetch-and-merge/)- Why you should use git fetch + merge/rebase instead of pull.
 
 ## Quant
 
