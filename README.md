@@ -26,7 +26,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 5. [Follow up discussion on 4.](https://news.ycombinator.com/item?id=40908273)- Hackernews discussion board on the aforementioned paper which I found more helpful than the original paper.
 
 ### Git
-1. [Git fetch vs pull](https://longair.net/blog/2009/04/16/git-fetch-and-merge/)- Why you should use git fetch + merge/rebase instead of pull.
+1. [Git fetch vs pull](https://longair.net/blog/2009/04/16/git-fetch-and-merge/)- Why you should use git fetch + merge/rebase instead of pull & honestly probably what helped me understand git the most till date.
 
 ## Quant
 
