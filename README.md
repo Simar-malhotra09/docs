@@ -25,3 +25,4 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 ### Risk Management
 1. [A Full Guide to Risk Management](https://www.vertoxquant.com/p/a-full-guide-to-risk-management) - Risk metrics like VaR, Vol modelling and more with code.
+2. [Arxiv's page on Quantitative Finance](https://arxiv.org/archive/q-fin)
