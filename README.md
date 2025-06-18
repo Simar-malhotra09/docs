@@ -7,6 +7,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
   - Software Optimization
     
 - [**Quant**](##Quant)
+  - General
   - Risk Management
 
 
@@ -23,7 +24,9 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 4. [C++ Design Patterns for Low-latency Applications Including High-frequency Trading](https://arxiv.org/abs/2309.04259)- Cache warming, constexpr and more.
 5. [Follow up discussion on 4.](https://news.ycombinator.com/item?id=40908273)- Hackernews discussion board on the aforementioned paper which I found more helpful than the original paper. 
 
-### Quant
+## Quant
+
+### General
 1. [Quantocracy](https://quantocracy.com/)-  curated mashup of quantitative trading links.
 
 ### Risk Management
