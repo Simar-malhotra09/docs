@@ -11,7 +11,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
   - General
   - Risk Management
   - 
-- [**Material Science**](##Material Science)
+- [**Material Science**](##Material-Science)
   - 2d materials & TEM
   
 
@@ -44,7 +44,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 1. [A Full Guide to Risk Management](https://www.vertoxquant.com/p/a-full-guide-to-risk-management)- [BLOG] Risk metrics like VaR, Vol modelling and more with code.
 
 
-## Material Science
+## Material-Science
 
 ### 2d materials & TEM
 1. [Two-dimensional MoS2: Properties, preparation, and applications](https://www.sciencedirect.com/science/article/pii/S2352847815000040)- [PAPER] 
