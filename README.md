@@ -51,3 +51,4 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 2. [Two-dimensional MoS2: Properties, preparation, and applications](https://www.sciencedirect.com/science/article/pii/S2352847815000040)- [PAPER]
 3. [The application of Graphene as a sample support in Transmission Electron Microscopy](https://arxiv.org/pdf/1204.6647)- [PAPER]
 4. [Analyzing the microstructure and related properties of 2D materials by transmission electron microscopy](https://appmicro.springeropen.com/articles/10.1186/s42649-019-0013-5)- [PAPER]
+5. [Deep learning analysis on transmission electron microscope imaging of atomic defects in two-dimensional materials](https://www.sciencedirect.com/science/article/pii/S258900422302059X)- [PAPER]
