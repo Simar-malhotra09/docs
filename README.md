@@ -48,5 +48,6 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 ### 2d materials & TEM
 1. [Transmission Electron Microscopy](https://www.nanoscience.com/techniques/transmission-electron-microscopy/)- [WEBPAGE] A guide to the science behind the setup and interactions of a TEM.
-1. [Two-dimensional MoS2: Properties, preparation, and applications](https://www.sciencedirect.com/science/article/pii/S2352847815000040)- [PAPER]
-2. [The application of Graphene as a sample support in Transmission Electron Microscopy](https://arxiv.org/pdf/1204.6647)- [PAPER] 
+2. [Two-dimensional MoS2: Properties, preparation, and applications](https://www.sciencedirect.com/science/article/pii/S2352847815000040)- [PAPER]
+3. [The application of Graphene as a sample support in Transmission Electron Microscopy](https://arxiv.org/pdf/1204.6647)- [PAPER]
+4. [Analyzing the microstructure and related properties of 2D materials by transmission electron microscopy](https://appmicro.springeropen.com/articles/10.1186/s42649-019-0013-5)- [PAPER]
