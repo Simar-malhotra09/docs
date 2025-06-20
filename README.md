@@ -10,7 +10,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 - [**Quant**](##Quant)
   - General
   - Risk Management
-  - 
+    
 - [**Material Science**](##Material-Science)
   - 2d materials & TEM
   
@@ -52,3 +52,4 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 3. [The application of Graphene as a sample support in Transmission Electron Microscopy](https://arxiv.org/pdf/1204.6647)- [PAPER]
 4. [Analyzing the microstructure and related properties of 2D materials by transmission electron microscopy](https://appmicro.springeropen.com/articles/10.1186/s42649-019-0013-5)- [PAPER]
 5. [Deep learning analysis on transmission electron microscope imaging of atomic defects in two-dimensional materials](https://www.sciencedirect.com/science/article/pii/S258900422302059X)- [PAPER]
+6. [DefectTrack: a deep learning-based multi-object tracking algorithm for quantitative defect analysis of in-situ TEM videos in real-time](https://pmc.ncbi.nlm.nih.gov/articles/PMC9489724/)- [PAPER]
