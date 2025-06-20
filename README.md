@@ -53,3 +53,4 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 4. [Analyzing the microstructure and related properties of 2D materials by transmission electron microscopy](https://appmicro.springeropen.com/articles/10.1186/s42649-019-0013-5)- [PAPER]
 5. [Deep learning analysis on transmission electron microscope imaging of atomic defects in two-dimensional materials](https://www.sciencedirect.com/science/article/pii/S258900422302059X)- [PAPER]
 6. [DefectTrack: a deep learning-based multi-object tracking algorithm for quantitative defect analysis of in-situ TEM videos in real-time](https://pmc.ncbi.nlm.nih.gov/articles/PMC9489724/)- [PAPER]
+7. [STEM image analysis based on deep learning: identification of vacancy defects and polymorphs of MoS2](https://arxiv.org/pdf/2206.04272)- [PAPER] Using Cnns to identify sulfur vacancies & polymorphs
