@@ -1,4 +1,4 @@
-# 🧠 Curated Knowledge Repository
+
 
 This repository is a (personally) curated collection of notes, blogs, and resources across several domains.
 
