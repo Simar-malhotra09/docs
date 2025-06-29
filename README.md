@@ -14,6 +14,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 - [**Quant**](#quant)
   - [General](#general)
   - [Risk Management](#risk-management)
+  - [Indian Markets](#im)
 
 - [**Material Science**](#material-science)
   - [2D Materials & TEM](#2d-materials--tem)
@@ -47,7 +48,10 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 ### Risk Management
 1. [A Full Guide to Risk Management](https://www.vertoxquant.com/p/a-full-guide-to-risk-management) – [BLOG] Covers risk metrics like VaR, volatility modeling, and more—with code.
 
-
+### Indian Markets 
+1. [SEBI's working papers](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=81&smid=104)- [WEBPAGE]
+2. [SEBI's links for market data](https://www.sebi.gov.in/Curation_Links_for_Securities_Market_Data.html)- [WEBPAGE]
+   
 
 ## Material Science
 
