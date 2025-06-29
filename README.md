@@ -14,7 +14,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 - [**Quant**](#quant)
   - [General](#general)
   - [Risk Management](#risk-management)
-  - [Indian Markets](#im)
+  - [Indian Markets](#indian-markets)
 
 - [**Material Science**](#material-science)
   - [2D Materials & TEM](#2d-materials--tem)
