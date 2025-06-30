@@ -25,6 +25,8 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 ### Computer Vision
 1. [The Chan-Vese Algorithm](https://arxiv.org/abs/1107.2782) – [PAPER] An active contour segmentation method effective for objects without well-defined edges. [skimage API](https://scikit-image.org/docs/0.25.x/auto_examples/segmentation/plot_chan_vese.html#sphx-glr-auto-examples-segmentation-plot-chan-vese-py)
+2. [Accelerating Chan-Vese Model with Cross Modality Guided
+Contrast Enhancement for Liver Segmentation](https://helvia.uco.es/xmlui/bitstream/handle/10396/30548/Author_copy_Chan_vese.pdf?isAllowed=y&sequence=3)- [PAPER] contrast enhancement as preprocessing step and gpu implementation of Chan-Vese. They do not provide any code, only the design.
 
 ### Software Optimization
 1. [Software optimization resources](https://www.agner.org/optimize/) – [WEBPAGE] Manuals on optimizing C++ and assembly for different platforms (Linux, Windows, macOS), guides to Intel and AMD CPU architectures, and more.
