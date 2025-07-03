@@ -19,6 +19,10 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 - [**Material Science**](#material-science)
   - [2D Materials & TEM](#2d-materials--tem)
 
+
+- [**Video Essays (or videos of all sorts because why not) **](#video-essays)
+
+
 ---
 
 ## Code 
@@ -66,3 +70,5 @@ Contrast Enhancement for Liver Segmentation](https://helvia.uco.es/xmlui/bitstre
 6. [DefectTrack: real-time defect tracking in in-situ TEM](https://pmc.ncbi.nlm.nih.gov/articles/PMC9489724/) – [PAPER]
 7. [STEM image analysis with deep learning](https://arxiv.org/pdf/2206.04272) – [PAPER] CNNs for identifying sulfur vacancies & MoS₂ polymorphs.
 
+## Video Essays
+1. [Fukushima - The Dirty Truth about Japan's Nuclear Nightmare | Investigate Asia](https://www.youtube.com/watch?v=13b2TVom5gc&ab_channel=InvestigateAsia)- I've always been curious in knowing more about fukushima and this scratches all my itches. 
