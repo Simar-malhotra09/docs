@@ -13,13 +13,15 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 - [**Quant**](#quant)
   - [General](#general)
+  - [Books](#books)
   - [Risk Management](#risk-management)
   - [Indian Markets](#indian-markets)
 
 - [**Material Science**](#material-science)
   - [2D Materials & TEM](#2d-materials--tem)
 
-
+- [**Books**](#books)
+  
 - [**Video Essays**](#video-essays)
 
 
@@ -45,11 +47,15 @@ Contrast Enhancement for Liver Segmentation](https://helvia.uco.es/xmlui/bitstre
 
 
 ## Quant
+> **Note:** “Quant” here is used very loosely — this section doesn’t *only* focus on QIS or highly formal mathematical finance.
 
 ### General
 1. [arXiv Quantitative Finance archive](https://arxiv.org/archive/q-fin) – [PAPER]
 2. [AQR Capital](https://www.aqr.com/Insights/Research) – [WEBPAGE] One of the few management firms consistently publishing high-quality, research-driven blogs.
 3. [Quantocracy](https://quantocracy.com/) – [WEBPAGE] Curated mashup of quantitative trading links.
+
+### Books
+1. [Financial Market Complexity by Neil Johnson et all](https://books.google.com/books/about/Financial_Market_Complexity.html?id=QJnOwQEACAAJ)- 2003, A physicits take on financial market complexity. 
 
 ### Risk Management
 1. [A Full Guide to Risk Management](https://www.vertoxquant.com/p/a-full-guide-to-risk-management) – [BLOG] Covers risk metrics like VaR, volatility modeling, and more—with code.
@@ -70,5 +76,8 @@ Contrast Enhancement for Liver Segmentation](https://helvia.uco.es/xmlui/bitstre
 6. [DefectTrack: real-time defect tracking in in-situ TEM](https://pmc.ncbi.nlm.nih.gov/articles/PMC9489724/) – [PAPER]
 7. [STEM image analysis with deep learning](https://arxiv.org/pdf/2206.04272) – [PAPER] CNNs for identifying sulfur vacancies & MoS₂ polymorphs.
 
+## Books
+1. [manazuru by Hiromi Kawakami](https://en.wikipedia.org/wiki/Manazuru_(novel))- 2006. Hiromi Kawakami is simply her (yet again). I had only read some of her shorter works like [Parade](https://www.amazon.com/Parade-Folktale-Hiromi-Kawakami/dp/1593765800) before this, and found them unusual yet interesting, but Manazuru helped me better understand and appreciate her style. I love books that disregard traditional grammatical rules — one example would be Infinite Jest by DFW — and the sparing use of quotation marks in Manazuru was a great touch, in my opinion.
+   
 ## Video Essays
 1. [Fukushima - The Dirty Truth about Japan's Nuclear Nightmare | Investigate Asia](https://www.youtube.com/watch?v=13b2TVom5gc&ab_channel=InvestigateAsia)- I've always been curious in knowing more about fukushima and this scratches all my itches. 
