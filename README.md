@@ -23,7 +23,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 - [**Video Essays**](#video-essays)
 
 
----
+
 
 ## Code 
 
