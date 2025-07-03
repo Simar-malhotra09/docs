@@ -20,7 +20,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
   - [2D Materials & TEM](#2d-materials--tem)
 
 
-- [**Video Essays (or videos of all sorts because why not) **](#video-essays)
+- [**Video Essays**](#video-essays)
 
 
 ---
