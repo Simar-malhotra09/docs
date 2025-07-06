@@ -77,7 +77,11 @@ Contrast Enhancement for Liver Segmentation](https://helvia.uco.es/xmlui/bitstre
 7. [STEM image analysis with deep learning](https://arxiv.org/pdf/2206.04272) – [PAPER] CNNs for identifying sulfur vacancies & MoS₂ polymorphs.
 
 ## Books
+
+>**Note:** I wish my lexicon weren't so pathetic that I couldn't describe how I feel about some of the books here. But I'll be selective with what I add; each one means something to me. I'd love to talk about any of these,feel free to email me, open an issue, or just reach out somehow.
 1. [manazuru by Hiromi Kawakami](https://en.wikipedia.org/wiki/Manazuru_(novel))- 2006. Hiromi Kawakami is simply her (yet again). I had only read some of her shorter works like [Parade](https://www.amazon.com/Parade-Folktale-Hiromi-Kawakami/dp/1593765800) before this, and found them unusual yet interesting, but Manazuru helped me better understand and appreciate her style. I love books that disregard traditional grammatical rules — one example would be Infinite Jest by DFW — and the sparing use of quotation marks in Manazuru was a great touch, in my opinion.
    
 ## Video Essays
-1. [Fukushima - The Dirty Truth about Japan's Nuclear Nightmare | Investigate Asia](https://www.youtube.com/watch?v=13b2TVom5gc&ab_channel=InvestigateAsia)- I've always been curious in knowing more about fukushima and this scratches all my itches. 
+1. [Fukushima - The Dirty Truth about Japan's Nuclear Nightmare | Investigate Asia](https://www.youtube.com/watch?v=13b2TVom5gc&ab_channel=InvestigateAsia)- I've always been curious in knowing more about fukushima and this scratches all my itches.
+---
+Email:malhotrasimar009@gmail.com
