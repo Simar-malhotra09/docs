@@ -52,7 +52,12 @@ Contrast Enhancement for Liver Segmentation](https://helvia.uco.es/xmlui/bitstre
 ### General
 1. [arXiv Quantitative Finance archive](https://arxiv.org/archive/q-fin) – [PAPER]
 2. [AQR Capital](https://www.aqr.com/Insights/Research) – [WEBPAGE] One of the few management firms consistently publishing high-quality, research-driven blogs.
-3. [Quantocracy](https://quantocracy.com/) – [WEBPAGE] Curated mashup of quantitative trading links.
+4. [Quantocracy](https://quantocracy.com/) – [WEBPAGE] Curated mashup of quantitative trading links.
+
+### Math
+1. [A guide to Brownian motion and related
+stochastic processes](https://www.stat.berkeley.edu/users/aldous/205B/pitman_yor_guide_bm.pdf)- [PDF]
+2. [More on Gaussian Processes ](https://cs.stanford.edu/~rpryzant/blog/gp/gp.html)- [WEBPAGE]
 
 ### Books
 1. [Financial Market Complexity by Neil Johnson et all](https://books.google.com/books/about/Financial_Market_Complexity.html?id=QJnOwQEACAAJ)- 2003, A physicits take on financial market complexity. 
