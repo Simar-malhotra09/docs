@@ -60,7 +60,8 @@ stochastic processes](https://www.stat.berkeley.edu/users/aldous/205B/pitman_yor
 2. [More on Gaussian Processes ](https://cs.stanford.edu/~rpryzant/blog/gp/gp.html)- [WEBPAGE]
 
 ### Books
-1. [Financial Market Complexity by Neil Johnson et all](https://books.google.com/books/about/Financial_Market_Complexity.html?id=QJnOwQEACAAJ)- 2003, A physicits take on financial market complexity. 
+1. [Financial Market Complexity by Neil Johnson et all](https://books.google.com/books/about/Financial_Market_Complexity.html?id=QJnOwQEACAAJ)- 2003, A physicits take on financial mathematics.
+2. [An Introduction to the Mathematics of Financial Derivatives](https://www.amazon.com/Introduction-Mathematics-Financial-Derivatives-Academic/dp/0125153929)- 1998/2000, This is imo, one of the more gentler introduction to pricing intruments & the math behind it, includes: Probability, Martingales & how they are used in stochastic modelling, Weiner processes, Integration in SP & PDE's. The text also was written, in the author's words to " explain the assumptions and concepts behind the (math) tools & relate them to dynamic asset pricing theory". I personally found the untilization of examples helpful, most of which are simple enough to allow for some intutiveness but are based in reality. 
 
 ### Risk Management
 1. [A Full Guide to Risk Management](https://www.vertoxquant.com/p/a-full-guide-to-risk-management) – [BLOG] Covers risk metrics like VaR, volatility modeling, and more—with code.
@@ -85,6 +86,7 @@ stochastic processes](https://www.stat.berkeley.edu/users/aldous/205B/pitman_yor
 
 >**Note:** I wish my lexicon weren't so pathetic that I couldn't describe how I feel about some of the books here. But I'll be selective with what I add; each one means something to me. I'd love to talk about any of these,feel free to email me, open an issue, or just reach out somehow.
 1. [manazuru by Hiromi Kawakami](https://en.wikipedia.org/wiki/Manazuru_(novel))- 2006. Hiromi Kawakami is simply her (yet again). I had only read some of her shorter works like [Parade](https://www.amazon.com/Parade-Folktale-Hiromi-Kawakami/dp/1593765800) before this, and found them unusual yet interesting, but Manazuru helped me better understand and appreciate her style. It's written from the perspective of a child, a wife, and a mother: I'm obviously not familiar with the latter two. Does the sense of the individual come before any of those titles? It makes me think about my own parents; I've only ever known my mother as my mother. I want to know more of what was there, before.
+   
 ## Video Essays
 1. [Fukushima - The Dirty Truth about Japan's Nuclear Nightmare | Investigate Asia](https://www.youtube.com/watch?v=13b2TVom5gc&ab_channel=InvestigateAsia)- I've always been curious in knowing more about fukushima and this scratches all my itches.
 ---
