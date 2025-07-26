@@ -7,6 +7,7 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 ### 🧠 Contents
 
 - [**Code**](#code)
+  - [Embedded](#embedded)
   - [Computer Vision](#computer-vision)
   - [Software Optimization](#software-optimization)
   - [Git](#git)
@@ -29,6 +30,8 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 ## Code 
 
+### Embedded
+1.[Introduction to Microprocessors](https://faculty.etsu.edu/tarnoff/ntes2150/uproc/uproc.htm)- [WEBPAGE] So wonderfully written for a novice like me, I wonder what this guy is doing today. 
 ### Computer Vision
 1. [The Chan-Vese Algorithm](https://arxiv.org/abs/1107.2782) – [PAPER] An active contour segmentation method effective for objects without well-defined edges. [skimage API](https://scikit-image.org/docs/0.25.x/auto_examples/segmentation/plot_chan_vese.html#sphx-glr-auto-examples-segmentation-plot-chan-vese-py)
 2. [Accelerating Chan-Vese Model with Cross Modality Guided
