@@ -31,7 +31,11 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 ## Code 
 
 ### Embedded
-1.[Introduction to Microprocessors](https://faculty.etsu.edu/tarnoff/ntes2150/uproc/uproc.htm)- [WEBPAGE] So wonderfully written for a novice like me, I wonder what this guy is doing today. 
+1. [Introduction to Microprocessors](https://faculty.etsu.edu/tarnoff/ntes2150/uproc/uproc.htm)- [WEBPAGE] So wonderfully written for a novice like me, I wonder what this guy is doing today. 
+
+2. [An Overview of the Embedded Rust Ecosystem](https://www.youtube.com/watch?v=vLYit_HHPaY&ab_channel=FerrousSystemsGmbH)- [YOUTUBE TALK] by @TheZoq2. Really useful to get a overaching view from the lower levels(manual manupilation of registors, PACs) to higher level abstractions(HALs, BSP) and [embeded-HAL](https://github.com/rust-embedded/embedded-hal) which ties everything together. 
+3. [The Discovery Book](https://docs.rust-embedded.org/discovery/index.html)- [WEBPAGE/BOOK] Part of a larger project that can be found [here](https://docs.rust-embedded.org/). Really nicely written, holds your hand through setting up your dev env, a micro bit microcontroller, SPI, I2C with examples which was much appreciated. 
+4. [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)- [GITHUB REPO] The quintissential embedded rust resource. 
 ### Computer Vision
 1. [The Chan-Vese Algorithm](https://arxiv.org/abs/1107.2782) – [PAPER] An active contour segmentation method effective for objects without well-defined edges. [skimage API](https://scikit-image.org/docs/0.25.x/auto_examples/segmentation/plot_chan_vese.html#sphx-glr-auto-examples-segmentation-plot-chan-vese-py)
 2. [Accelerating Chan-Vese Model with Cross Modality Guided
