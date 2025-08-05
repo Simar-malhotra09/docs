@@ -64,7 +64,10 @@ Contrast Enhancement for Liver Segmentation](https://helvia.uco.es/xmlui/bitstre
 ### Math
 1. [A guide to Brownian motion and related
 stochastic processes](https://www.stat.berkeley.edu/users/aldous/205B/pitman_yor_guide_bm.pdf)- [PDF]
-2. [More on Gaussian Processes ](https://cs.stanford.edu/~rpryzant/blog/gp/gp.html)- [WEBPAGE]
+2. [A short history of stochastic integration
+and mathematical finance: The early
+years, 1880–1970](https://www.ma.imperial.ac.uk/~ajacquie/IC_AMDP/IC_AMDP_Docs/Literature/Jarrow_Protter_History_Stochastic_Integration.pdf)- [PDF]
+3. [More on Gaussian Processes ](https://cs.stanford.edu/~rpryzant/blog/gp/gp.html)- [WEBPAGE]
 
 ### Books
 1. [Financial Market Complexity by Neil Johnson et all](https://books.google.com/books/about/Financial_Market_Complexity.html?id=QJnOwQEACAAJ)- 2003, A physicits take on financial mathematics.
