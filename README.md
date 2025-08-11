@@ -47,6 +47,7 @@ Contrast Enhancement for Liver Segmentation](https://helvia.uco.es/xmlui/bitstre
 3. [On memory optimization (by the folks over at Sony)](https://web.archive.org/web/20160422113037/http://www.research.scea.com/research/pdfs/GDC2003_Memory_Optimization_18Mar03.pdf) – [PDF]
 4. [C++ Design Patterns for Low-latency Applications Including High-frequency Trading](https://arxiv.org/abs/2309.04259) – [PAPER] Cache warming, `constexpr`, and more.
 5. [Follow-up discussion on 4](https://news.ycombinator.com/item?id=40908273) – [FORUM] Hacker News thread with helpful commentary.
+6. [Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports](https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/) – [BLOG] HRT uses a python monorepoe, more services=more imports, of which only a subset of definitons are actually used. They talk about how they use lazy imports to prevent interpretor related slowdowns.
 
 ### Git
 1. [Git fetch vs pull](https://longair.net/blog/2009/04/16/git-fetch-and-merge/) – [BLOG] Why you should use `git fetch` + merge/rebase instead of `pull`. Probably the clearest explanation of Git I’ve encountered.
