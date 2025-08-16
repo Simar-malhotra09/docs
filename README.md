@@ -7,7 +7,9 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 ### 🧠 Contents
 
 - [**Code**](#code)
+
   - [Embedded](#embedded)
+  - [Distributed Programming](#distributed-programming)
   - [Computer Vision](#computer-vision)
   - [Software Optimization](#software-optimization)
   - [Git](#git)
@@ -30,6 +32,8 @@ This repository is a (personally) curated collection of notes, blogs, and resour
 
 ## Code 
 
+### Distributed Programming
+1. [ Distributed Programming for fun and profit](https://book.mixu.net/distsys/single-page.html)- [WEBPAGE] 2013, but still extremely relevant, maybe even more so? It discusses the following: High and low level abstraction, Time (clock) and replication. As said by the author's intent was to  "introduce the key concepts that you will need in order to have a good time reading more serious texts" 
 ### Embedded
 1. [Introduction to Microprocessors](https://faculty.etsu.edu/tarnoff/ntes2150/uproc/uproc.htm)- [WEBPAGE] So wonderfully written for a novice like me, I wonder what this guy is doing today. 
 
