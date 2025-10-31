@@ -101,6 +101,8 @@ years, 1880–1970](https://www.ma.imperial.ac.uk/~ajacquie/IC_AMDP/IC_AMDP_Docs
 
 >**Note:** I wish my lexicon weren't so pathetic that I couldn't describe how I feel about some of the books here. But I'll be selective with what I add; each one means something to me. I'd love to talk about any of these,feel free to email me, open an issue, or just reach out somehow.
 1. [manazuru by Hiromi Kawakami](https://en.wikipedia.org/wiki/Manazuru_(novel))- 2006. Hiromi Kawakami is simply her (yet again). I had only read some of her shorter works like [Parade](https://www.amazon.com/Parade-Folktale-Hiromi-Kawakami/dp/1593765800) before this, and found them unusual yet interesting, but Manazuru helped me better understand and appreciate her style. It's written from the perspective of a child, a wife, and a mother: I'm obviously not familiar with the latter two. Does the sense of the individual come before any of those titles? It makes me think about my own parents; I've only ever known my mother as my mother. I want to know more of what was there, before.
+2. [The Iliad of Homer / retold by Barbara Leonie Picard](https://archive.org/details/iliadofhomer0000barb)- 1960,
+3. [Uncommon sense : the heretical nature of science / Alan Cromer](https://www.amazon.com/Uncommon-Sense-Heretical-Nature-Science/dp/0195096363)- 1995, "Is science natural to humans and the way they have evolved" is the fundamental question answered through different civilizations and different epochs of time. 
    
 ## Video Essays
 1. [Fukushima - The Dirty Truth about Japan's Nuclear Nightmare | Investigate Asia](https://www.youtube.com/watch?v=13b2TVom5gc&ab_channel=InvestigateAsia)- I've always been curious in knowing more about fukushima and this scratches all my itches.
